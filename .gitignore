@@ -1,8 +1,0 @@
-*.pyc
-bin/
-build/
-dist/
-*.egg-info/
-*.sublime-*
-ve/
-.DS_Store
