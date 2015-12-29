@@ -1,2 +1,2 @@
-rm -rf ../../papersizes-gh-pages/*
-cp -a build/html/* ../../papersizes-gh-pages
+rm -rf ../../csscolor-gh-pages/*
+cp -a build/html/* ../../csscolor-gh-pages
