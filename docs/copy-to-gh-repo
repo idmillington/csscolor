@@ -1,0 +1,2 @@
+rm -rf ../../papersizes-gh-pages/*
+cp -a build/html/* ../../papersizes-gh-pages
