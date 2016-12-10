@@ -31,9 +31,7 @@ setup(
 
     zip_safe=False,
 
-    install_requires=[
-        # Documentation
-        'Sphinx',
-        # Testing
-        'nose']
+    # Testing and documentation requirements can be installed with:
+    # pip install -r dev-requirements.txt
+    install_requires=[]
     )
